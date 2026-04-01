@@ -1,0 +1,15 @@
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Keep data structure but ignore db contents
+database/
+!database/__init__.py
+!database/db.py
+
+# Keep data templates
+data/
+!data/courses.json
+!data/faqs.json
+!data/prompts.json

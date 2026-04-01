@@ -1,0 +1,36 @@
+# PHN Technology - WhatsApp AI Agent
+
+## Byte-compile / Optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Environment
+.env
+.venv/
+venv/
+env/
+
+## Database
+*.db
+*.sqlite3
+*.db-shm
+*.db-wal
+
+## Logs
+*.log
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Distribution
+dist/
+build/
+*.egg-info/

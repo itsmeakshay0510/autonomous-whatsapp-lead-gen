@@ -1,0 +1,22 @@
+services:
+  whatsapp-agent:
+    build: .
+    container_name: phn-whatsapp-agent
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data and database directories to persist state and configuration
+      - ./data:/app/data
+      - phn_database:/app/database
+      - ./.env:/app/.env
+    environment:
+      # If Ollama is running natively on your host machine, the container needs
+      # this special hostname to access it, rather than 'localhost' which would
+      # point to the container itself.
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+volumes:
+  phn_database:

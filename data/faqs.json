@@ -1,0 +1,109 @@
+{
+  "faqs": [
+    {
+      "id": "faq-001",
+      "question": "What is PHN Technology?",
+      "answer": "PHN Technology is a leading technology training institute that empowers students and professionals with industry-ready skills in AI/ML, Web Development, Data Science, Cybersecurity, and DevOps. We've trained 4000+ students with a 90%+ placement rate.",
+      "category": "general",
+      "tags": ["about", "company", "institute", "who"]
+    },
+    {
+      "id": "faq-002",
+      "question": "What courses do you offer?",
+      "answer": "We offer 5 flagship programs: 1) AI & Machine Learning Masterclass, 2) Full Stack Web Development Bootcamp, 3) Data Science & Analytics Program, 4) Cybersecurity & Ethical Hacking, and 5) Automation & DevOps Engineering. Each program includes hands-on projects, industry mentors, and placement assistance.",
+      "category": "courses",
+      "tags": ["courses", "programs", "offerings", "what", "list"]
+    },
+    {
+      "id": "faq-003",
+      "question": "How do I register for a course?",
+      "answer": "Registration is simple! Just share your name, email, phone number, and the course you're interested in. Our counselor will reach out within 24 hours to guide you through the enrollment process. You can also visit our office for in-person registration.",
+      "category": "registration",
+      "tags": ["register", "enroll", "join", "admission", "signup", "how to join"]
+    },
+    {
+      "id": "faq-004",
+      "question": "Do you offer EMI or installment payments?",
+      "answer": "Yes! All our courses come with 0% interest EMI options. You can pay in monthly installments without any extra charges. We want to make quality education accessible to everyone.",
+      "category": "payment",
+      "tags": ["emi", "installment", "payment", "fee", "cost", "price", "afford"]
+    },
+    {
+      "id": "faq-005",
+      "question": "Do you provide placement assistance?",
+      "answer": "Absolutely! We provide comprehensive placement assistance including resume building, mock interviews, portfolio projects, and direct connections with our 50+ hiring partner companies. Our placement rate is over 90%!",
+      "category": "placement",
+      "tags": ["placement", "job", "career", "hiring", "employment", "internship"]
+    },
+    {
+      "id": "faq-006",
+      "question": "What is the class mode - online or offline?",
+      "answer": "Most of our courses are available in both Online and Offline modes. Online classes are live and interactive (not pre-recorded). You can attend from anywhere and still get the full classroom experience with doubt-clearing sessions.",
+      "category": "mode",
+      "tags": ["online", "offline", "mode", "live", "recorded", "hybrid", "class"]
+    },
+    {
+      "id": "faq-007",
+      "question": "Do I need prior experience to join?",
+      "answer": "Not at all! Our courses are designed for beginners. We start from the basics and gradually move to advanced topics. All you need is a laptop, internet connection, and the willingness to learn. We've had students from non-tech backgrounds succeed brilliantly!",
+      "category": "eligibility",
+      "tags": ["beginner", "experience", "prerequisite", "eligibility", "background", "fresher", "no experience"]
+    },
+    {
+      "id": "faq-008",
+      "question": "Will I get a certificate?",
+      "answer": "Yes! Upon successful completion of the course and projects, you'll receive an industry-recognized PHN Technology certification. This certificate is valued by employers and can be added to your LinkedIn profile.",
+      "category": "certification",
+      "tags": ["certificate", "certification", "diploma", "credential"]
+    },
+    {
+      "id": "faq-009",
+      "question": "What are the batch timings?",
+      "answer": "We have flexible batch timings: Morning batches (10 AM - 1 PM), Evening batches (6 PM - 9 PM), and Weekend batches (Saturday & Sunday). You can choose the timing that best fits your schedule.",
+      "category": "schedule",
+      "tags": ["timing", "schedule", "batch", "time", "weekend", "evening", "morning", "when"]
+    },
+    {
+      "id": "faq-010",
+      "question": "Can I get a demo class?",
+      "answer": "Of course! We offer a FREE demo class for every course so you can experience our teaching quality before enrolling. Just share your details and we'll schedule one for you. No commitment required!",
+      "category": "demo",
+      "tags": ["demo", "trial", "free class", "sample", "try"]
+    },
+    {
+      "id": "faq-011",
+      "question": "What is the refund policy?",
+      "answer": "We offer a 7-day refund policy. If you're not satisfied with the course within the first 7 days after the batch starts, we'll process a full refund. No questions asked. We're that confident in our quality!",
+      "category": "refund",
+      "tags": ["refund", "money back", "cancel", "return"]
+    },
+    {
+      "id": "faq-012",
+      "question": "Where is PHN Technology located?",
+      "answer": "PHN Technology is headquartered with both physical and virtual presence. For our exact office address and directions, please contact our team. We also serve students across India through our online programs.",
+      "category": "location",
+      "tags": ["location", "address", "where", "office", "branch", "city"]
+    },
+    {
+      "id": "faq-013",
+      "question": "Do you offer corporate training?",
+      "answer": "Yes! We provide customized corporate training programs for companies looking to upskill their teams. Our corporate programs are tailored to your specific technology stack and business needs. Contact us for a custom proposal.",
+      "category": "corporate",
+      "tags": ["corporate", "company", "team", "business", "enterprise", "bulk"]
+    },
+    {
+      "id": "faq-014",
+      "question": "What projects will I work on?",
+      "answer": "Each course includes multiple real-world projects. For example, in our AI/ML course, you'll build a recommendation system, image classifier, chatbot, and more. These projects become part of your professional portfolio that you can showcase to employers.",
+      "category": "projects",
+      "tags": ["projects", "portfolio", "hands-on", "practical", "real world"]
+    },
+    {
+      "id": "faq-015",
+      "question": "How can I contact PHN Technology?",
+      "answer": "You can reach us through: 1) This WhatsApp chat — we're here to help! 2) Email us for detailed inquiries. 3) Visit our office during business hours. Our team typically responds within a few hours.",
+      "category": "contact",
+      "tags": ["contact", "reach", "call", "email", "phone", "support", "help"]
+    }
+  ]
+}
